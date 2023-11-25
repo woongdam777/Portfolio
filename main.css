@@ -13,7 +13,12 @@
     cursor: pointer;
 }
 
-#text{
+.first-screen>div{
+    width: 400px;
+    height: 300px;
+}
+
+#typing{
     font-size: 24px;
     color: white;
 }
